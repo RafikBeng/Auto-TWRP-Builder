@@ -6,7 +6,7 @@ on:
       IMG_URL:
         description: 'IMG_ URL'
         required: true
-        default: 'https://github.com/RafikBeng/Auto-TWRP-Builder/raw/master/recovery.img'
+        default: 'https://raw.githubusercontent.com/RafikBeng/Auto-TWRP-Builder/master/recovery.img'
       MANIFEST_URL:
         description: 'MANIFEST_URL (if want to use SSH keys, use git@github.com:XXXXX)'
         required: true
